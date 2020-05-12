@@ -1,0 +1,21 @@
+@import 'reset.css';
+
+#root {
+  min-width: 1400px;
+  text-align:center;
+  background: #ECF0FB;
+}
+
+#App {
+  padding-bottom: 10px;
+}
+
+footer {
+  min-height: 80px;
+  padding-top: 10px;
+  line-height: 30px;
+  text-align: center;
+  background: #0E3F99;
+  font-size: 16px;
+  color: #FFF;
+}
